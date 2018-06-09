@@ -1,2 +1,2 @@
 
-var one = 'Helo World!!';
+var greeting = 'Helo World!!';
