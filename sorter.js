@@ -11,3 +11,9 @@ var paperClip2 = {
 var paperClip3 = {
     color: "blue"
 };
+
+function Paperclip(color) {
+    this.color = color;
+}
+
+var paperClip1 = new Paperclip('red');
