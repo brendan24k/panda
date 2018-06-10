@@ -7,7 +7,7 @@ house.windows = 4;
 house.color = 'blue';
 house.garden = 3;
 
-house['greeting'] = 'hi';
+house['greeting'] = 'Hi, welcome to my house.';
 
 
 var car = {};
