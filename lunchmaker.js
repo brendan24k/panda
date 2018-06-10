@@ -1,5 +1,5 @@
 
-var greeting = 'Helo World!!';
+var greeting = 'Hello World!!';
 var isHot = false;
 var angry = 'Go Away!!';
 var house = {};
